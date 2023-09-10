@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.jaggiesbegone.title": "Jaggies Begone Config",
+  "text.autoconfig.jaggiesbegone.option.enableFXAA": "4x FXAA",
+  "text.autoconfig.jaggiesbegone.option.enableAutoMipmaps": "Force Mipmaps",
+  "text.autoconfig.jaggiesbegone.option.enableFXAA.@Tooltip": "Apply 4x FXAA anti-aliasing. Reconnect to your server to apply changes.",
+  "text.autoconfig.jaggiesbegone.option.enableAutoMipmaps.@Tooltip": "Forces the game render mipmaps on blocks. Reconnect to your server to apply changes."
+}

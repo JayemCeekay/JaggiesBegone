@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "jaggiesbegone",
+  "version": "${version}",
+  "name": "JaggiesBegone",
+  "description": "Toggleable FXAA",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/mckam/JaggiesBegone"
+  },
+  "license": "MIT",
+  "icon": "assets/jaggiesbegone/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "modmenu": [
+      "com.jayemceekay.jaggiesbegone.client.JaggiesBegoneModMenuIntegration"
+    ],
+    "client": [
+      "com.jayemceekay.jaggiesbegone.client.JaggiesBegoneClient"
+    ],
+    "main": [
+      "com.jayemceekay.jaggiesbegone.JaggiesBegone"
+    ]
+  },
+  "mixins": [
+    "jaggiesbegone.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "accessWidener" : "jaggiesbegone.accesswidener"
+}
