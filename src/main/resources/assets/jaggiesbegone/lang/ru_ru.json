@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.jaggiesbegone.title": "Настройки Jaggies Begone",
+  "text.autoconfig.jaggiesbegone.option.enableFXAA": "4x FXAA",
+  "text.autoconfig.jaggiesbegone.option.enableAutoMipmaps": "Уровни детализации для текстур с вырезкой",
+  "text.autoconfig.jaggiesbegone.option.enableFXAA.@Tooltip": "Применять сглаживание 4x FXAA. Требуется перезагрузка мира.",
+  "text.autoconfig.jaggiesbegone.option.enableAutoMipmaps.@Tooltip": "Принудительно создавать уровни детализации для текстур, имеющих полностью прозрачные части. Требуется перезагрузка мира.",
+  "modmenu.summaryTranslation.jaggiesbegone": "FXAA и уровни детализации для всех текстур с вырезкой.",
+  "modmenu.descriptionTranslation.jaggiesbegone": "Клиентский мод для Fabric, который позволяет применять сглаживание 4x FXAA через встроенную в игру систему шейдеров и принудительно генерировать уровни детализации для всех блоков, имеющих текстуры с вырезкой."
+}
