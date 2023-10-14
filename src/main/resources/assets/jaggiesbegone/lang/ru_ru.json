@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.jaggiesbegone.title": "Настройки Jaggies Begone",
+  "text.autoconfig.jaggiesbegone.option.enableFXAA": "4x FXAA",
+  "text.autoconfig.jaggiesbegone.option.enableAutoMipmaps": "Уровни детализации для текстур с вырезкой",
+  "text.autoconfig.jaggiesbegone.option.enableFXAA.@Tooltip": "Применить сглаживание 4x FXAA. Требуется перезагрузка мира.",
+  "text.autoconfig.jaggiesbegone.option.enableAutoMipmaps.@Tooltip": "Принудительно создавать уровни детализации для текстур, имеющих прозрачные части. Требуется перезагрузка мира."
+}
